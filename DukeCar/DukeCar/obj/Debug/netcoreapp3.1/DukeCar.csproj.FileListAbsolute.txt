@@ -1,0 +1,14 @@
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\obj\Debug\netcoreapp3.1\DukeCar.csproj.AssemblyReference.cache
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\obj\Debug\netcoreapp3.1\DukeCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\obj\Debug\netcoreapp3.1\DukeCar.AssemblyInfoInputs.cache
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\obj\Debug\netcoreapp3.1\DukeCar.AssemblyInfo.cs
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\obj\Debug\netcoreapp3.1\DukeCar.csproj.CoreCompileInputs.cache
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\bin\Debug\netcoreapp3.1\DukeCar.exe
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\bin\Debug\netcoreapp3.1\DukeCar.deps.json
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\bin\Debug\netcoreapp3.1\DukeCar.runtimeconfig.json
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\bin\Debug\netcoreapp3.1\DukeCar.runtimeconfig.dev.json
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\bin\Debug\netcoreapp3.1\DukeCar.dll
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\bin\Debug\netcoreapp3.1\DukeCar.pdb
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\obj\Debug\netcoreapp3.1\DukeCar.dll
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\obj\Debug\netcoreapp3.1\DukeCar.pdb
+C:\Users\mcduk\source\repos\DukeCar\DukeCar\obj\Debug\netcoreapp3.1\DukeCar.genruntimeconfig.cache
