@@ -1,0 +1,21 @@
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\bin\Debug\netcoreapp3.1\MakeRectangle.exe
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\bin\Debug\netcoreapp3.1\MakeRectangle.deps.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\bin\Debug\netcoreapp3.1\MakeRectangle.runtimeconfig.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\bin\Debug\netcoreapp3.1\MakeRectangle.runtimeconfig.dev.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\bin\Debug\netcoreapp3.1\MakeRectangle.dll
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\bin\Debug\netcoreapp3.1\MakeRectangle.pdb
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.csproj.AssemblyReference.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.AssemblyInfoInputs.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.AssemblyInfo.cs
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.csproj.CoreCompileInputs.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.dll
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.pdb
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.genruntimeconfig.cache
+C:\Users\mcduk\OneDrive\Desktop\C++ & C#\C#\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.csproj.AssemblyReference.cache
+C:\Users\mcduk\OneDrive\Desktop\C++ & C#\C#\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcduk\OneDrive\Desktop\C++ & C#\C#\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.AssemblyInfoInputs.cache
+C:\Users\mcduk\OneDrive\Desktop\C++ & C#\C#\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.AssemblyInfo.cs
+C:\Users\mcduk\OneDrive\Desktop\C++ & C#\C#\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.csproj.CoreCompileInputs.cache
+C:\Users\mcduk\OneDrive\Desktop\C++ & C#\C#\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.dll
+C:\Users\mcduk\OneDrive\Desktop\C++ & C#\C#\MakeRectangle\MakeRectangle\obj\Debug\netcoreapp3.1\MakeRectangle.pdb
