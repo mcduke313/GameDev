@@ -1,0 +1,14 @@
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\obj\Debug\netcoreapp3.1\DukeEquation.csproj.AssemblyReference.cache
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\obj\Debug\netcoreapp3.1\DukeEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\obj\Debug\netcoreapp3.1\DukeEquation.AssemblyInfoInputs.cache
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\obj\Debug\netcoreapp3.1\DukeEquation.AssemblyInfo.cs
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\obj\Debug\netcoreapp3.1\DukeEquation.csproj.CoreCompileInputs.cache
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\bin\Debug\netcoreapp3.1\DukeEquation.exe
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\bin\Debug\netcoreapp3.1\DukeEquation.deps.json
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\bin\Debug\netcoreapp3.1\DukeEquation.runtimeconfig.json
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\bin\Debug\netcoreapp3.1\DukeEquation.runtimeconfig.dev.json
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\bin\Debug\netcoreapp3.1\DukeEquation.dll
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\bin\Debug\netcoreapp3.1\DukeEquation.pdb
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\obj\Debug\netcoreapp3.1\DukeEquation.dll
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\obj\Debug\netcoreapp3.1\DukeEquation.pdb
+C:\Users\mcduk\source\repos\DukeEquation\DukeEquation\obj\Debug\netcoreapp3.1\DukeEquation.genruntimeconfig.cache
