@@ -1,0 +1,14 @@
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\bin\Debug\netcoreapp3.1\ArrayProblems.exe
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\bin\Debug\netcoreapp3.1\ArrayProblems.deps.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\bin\Debug\netcoreapp3.1\ArrayProblems.runtimeconfig.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\bin\Debug\netcoreapp3.1\ArrayProblems.runtimeconfig.dev.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\bin\Debug\netcoreapp3.1\ArrayProblems.dll
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\bin\Debug\netcoreapp3.1\ArrayProblems.pdb
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\obj\Debug\netcoreapp3.1\ArrayProblems.csproj.AssemblyReference.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\obj\Debug\netcoreapp3.1\ArrayProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\obj\Debug\netcoreapp3.1\ArrayProblems.AssemblyInfoInputs.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\obj\Debug\netcoreapp3.1\ArrayProblems.AssemblyInfo.cs
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\obj\Debug\netcoreapp3.1\ArrayProblems.csproj.CoreCompileInputs.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\obj\Debug\netcoreapp3.1\ArrayProblems.dll
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\obj\Debug\netcoreapp3.1\ArrayProblems.pdb
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\ArrayProblems\ArrayProblems\obj\Debug\netcoreapp3.1\ArrayProblems.genruntimeconfig.cache
