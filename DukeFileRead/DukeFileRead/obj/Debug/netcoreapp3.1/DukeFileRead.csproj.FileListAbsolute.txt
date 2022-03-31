@@ -1,0 +1,14 @@
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\obj\Debug\netcoreapp3.1\DukeFileRead.csproj.AssemblyReference.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\obj\Debug\netcoreapp3.1\DukeFileRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\obj\Debug\netcoreapp3.1\DukeFileRead.AssemblyInfoInputs.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\obj\Debug\netcoreapp3.1\DukeFileRead.AssemblyInfo.cs
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\obj\Debug\netcoreapp3.1\DukeFileRead.csproj.CoreCompileInputs.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\bin\Debug\netcoreapp3.1\DukeFileRead.exe
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\bin\Debug\netcoreapp3.1\DukeFileRead.deps.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\bin\Debug\netcoreapp3.1\DukeFileRead.runtimeconfig.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\bin\Debug\netcoreapp3.1\DukeFileRead.runtimeconfig.dev.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\bin\Debug\netcoreapp3.1\DukeFileRead.dll
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\bin\Debug\netcoreapp3.1\DukeFileRead.pdb
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\obj\Debug\netcoreapp3.1\DukeFileRead.dll
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\obj\Debug\netcoreapp3.1\DukeFileRead.pdb
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeFileRead\DukeFileRead\obj\Debug\netcoreapp3.1\DukeFileRead.genruntimeconfig.cache
