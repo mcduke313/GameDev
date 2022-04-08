@@ -1,0 +1,14 @@
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\obj\Debug\netcoreapp3.1\DukeRPGBattle.csproj.AssemblyReference.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\obj\Debug\netcoreapp3.1\DukeRPGBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\obj\Debug\netcoreapp3.1\DukeRPGBattle.AssemblyInfoInputs.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\obj\Debug\netcoreapp3.1\DukeRPGBattle.AssemblyInfo.cs
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\obj\Debug\netcoreapp3.1\DukeRPGBattle.csproj.CoreCompileInputs.cache
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\bin\Debug\netcoreapp3.1\DukeRPGBattle.exe
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\bin\Debug\netcoreapp3.1\DukeRPGBattle.deps.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\bin\Debug\netcoreapp3.1\DukeRPGBattle.runtimeconfig.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\bin\Debug\netcoreapp3.1\DukeRPGBattle.runtimeconfig.dev.json
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\bin\Debug\netcoreapp3.1\DukeRPGBattle.dll
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\bin\Debug\netcoreapp3.1\DukeRPGBattle.pdb
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\obj\Debug\netcoreapp3.1\DukeRPGBattle.dll
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\obj\Debug\netcoreapp3.1\DukeRPGBattle.pdb
+C:\Users\S7502141\OneDrive - Lone Star College\Desktop\DukeRPGBattle\DukeRPGBattle\obj\Debug\netcoreapp3.1\DukeRPGBattle.genruntimeconfig.cache
