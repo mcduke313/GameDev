@@ -1,0 +1,5 @@
+﻿  Week3.cpp
+C:\Users\mcduk\OneDrive\Desktop\CompSci Homework\C++\Week3\Week3\Week3.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mcduk\OneDrive\Desktop\CompSci Homework\C++\Week3\Week3\Week3.cpp(86,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mcduk\OneDrive\Desktop\CompSci Homework\C++\Week3\Week3\Week3.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+  Week3.vcxproj -> C:\Users\mcduk\OneDrive\Desktop\CompSci Homework\C++\Week3\Debug\Week3.exe
